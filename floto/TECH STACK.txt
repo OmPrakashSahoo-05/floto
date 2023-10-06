@@ -1,0 +1,11 @@
+Python : FLASK FRAMEWORK. OPENCV
+JS: VUE JS FRAMEWORK
+IOT: ARDUINO IDE
+
+Hardware components used:
+
+NODE MCU ESP8266
+DHT 11: temperature and humidity sensor	
+SOIL MOISTURE SENSOR
+NEO-6M GPS MODULE
+IC 7805 with 0.1uF and 0.22uF capacitors : generates a 5V DC at the output
